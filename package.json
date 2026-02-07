@@ -1,0 +1,15 @@
+{
+  "name": "application-development-1",
+  "version": "1.0.0",
+  "description": "### Resources Used - [Node.js Documentation](https://fullstackopen.com/en/part3) - [npm Documentation](https://docs.npmjs.com/) - AI assistance (GitHub Copilot) for troubleshooting and code explanations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
