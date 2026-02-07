@@ -1,7 +1,7 @@
 # Reflection
 
 **What was the original bug, and why did Node throw an error?**
-The original bug was the use of the variable `discount` in the `applyDiscount` function without defining it. Node threw a ReferenceError because JavaScript can't use variables that have not been declared or assigned a value.
+The original bug was the use of the variable `discount` in the `applyDiscount` function without defining it. Node threw a ReferenceError because JavaScript can't use variables that haven't been declared or assigned a value.
 
 **How did logging help explain program behavior?**
 Logging provided clear, structured information about each step of the program, including startup, input values, calculation results, discount application, and errors. This made it easy to trace the flow and understand where and why certain actions occurred.
